@@ -19,7 +19,13 @@ import Task1 from "./components/adventure/Task1"
 import Task2 from "./components/adventure/Task2"
 import Task3 from "./components/adventure/Task3"
 import Winner from "./components/adventure/Winner"
+<<<<<<< Updated upstream
 
+=======
+import FindBuddy from "./components/FindBuddy"
+import ShowQuest from "./components/ShowQuest";
+import BuddiesStats from "./components/BuddiesStats";
+>>>>>>> Stashed changes
 
 
 

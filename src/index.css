@@ -20,7 +20,7 @@ body {
   font-size: 1.2rem;
   font-weight: 400;
   margin: auto;
-  background-color: lightgray;
+  background-color: #758250;
 }
 
 .container {
@@ -67,6 +67,8 @@ body {
 .events h3 {
 
 }
+
+
 .btns {
   display: flex;
   width: 100%;
